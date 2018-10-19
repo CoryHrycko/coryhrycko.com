@@ -18,3 +18,8 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('pages.about');
 });
+
+Route::get('/users/{id}/{name}', function($id,$name) {
+    return 'this is user '.$name.' ID: '.$id;
+});
+
