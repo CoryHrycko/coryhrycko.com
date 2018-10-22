@@ -23,9 +23,4 @@ Twitter</a></div>&nbsp&nbsp&nbsp
 <div class="gridSpacer3">3</div>
 <div class="gridSpacer4">4</div>
 </div>
-
-<div class='secondPage'>
-<br><br>
-WHat a duck
-</div>
 @endsection
