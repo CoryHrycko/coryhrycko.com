@@ -1,4 +1,8 @@
+This is the repository of all the changes I had made to the regular laravel framwork to create my website.
 
+www.coryhrycko.com
+
+if you want to see all of the files in action you can look there. This repository is only used as a second backup unrelated to the hosting site or the domain registrar. No information that would compromise the website will be published. 
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
