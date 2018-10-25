@@ -2,9 +2,10 @@
 
 @section('content')
 @yield('buttons')
+<div class='wrapperIntro'>
 <div class='gridder'>
 <div class="containerCustom">
-  <h1 class="title Custom">Cory's Website</h1>
+  <h1 class="titleCustom">The Joy of Web Design</h1>
 </div>
 
 	    <div class ="btnlistTextCenter">
@@ -17,10 +18,6 @@ Twitter</a></div>&nbsp&nbsp&nbsp
          <div class ="faceBook"> <a  href="https://www.facebook.com/cory.hrycko"><i class="fa fa-facebook-official fa-lg" aria-hidden="true"id="facebookIcon"></i>FaceBook  </a></div>
      </div>
           
-          
-          <div class="gridSpacer1">1</div>
-<div class="gridSpacer2">2</div>
-<div class="gridSpacer3">3</div>
-<div class="gridSpacer4">4</div>
+  </div>  
 </div>
 @endsection
