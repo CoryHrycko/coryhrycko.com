@@ -1,13 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class='wrapper'>
-
-
-<video autoplay muted loop id="myVideo">
-  <source src="../asset/images/Clock.MP4" type="video/MP4">
-  <source src="../asset/images/Clock.webm" type="video/webm">
-</video>
+<div class='logInWrapper'>
 
     <div class=" text-center">
         <h1 class='paddingCustom'>Welcome To Cory's Corner!</h1>
